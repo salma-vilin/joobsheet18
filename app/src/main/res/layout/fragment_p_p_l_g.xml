@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PPLG">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Apa yang akan kamu pelajari?
+        Sistem Komputer
+Komputer dan Jaringan Dasar
+Pemrograman Dasar
+Dasar Desain Grafis
+Pemodelan Perangkat Lunak
+Basis Data
+Pemrograman Berorientasi Objek
+Pemrograman Web
+Produk Kreatif dan Kewirausahaan"
+        android:textSize="30sp"/>
+
+</FrameLayout>
